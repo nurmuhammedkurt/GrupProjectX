@@ -6,6 +6,8 @@ public class TC002 {
 
     //work 3 completed
 
+    //added part 3
+
     //Test case finished
 
     //new changes
